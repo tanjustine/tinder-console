@@ -93,6 +93,7 @@ The project has the following classes:
 ### **4. Function.cs**
 - The Function object stores the following:
     - A list of all registered users
+    
 - It also performs the following tasks:
     - Registering a user
     - Matching and unmatching users
